@@ -1,0 +1,3 @@
+terminals: ['pip3 install -r requirements.txt']
+tabs: ['accumulate.py']
+run-button: python3 $$file
